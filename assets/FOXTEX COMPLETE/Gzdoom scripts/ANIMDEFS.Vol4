@@ -1,0 +1,309 @@
+texture OTPT_6
+	pic OTPT_6	tics 4
+    pic OTPT_6F1 tics 4
+    pic OTPT_6F2 tics 4
+    pic OTPT_6F3 tics 4
+    pic OTPT_6F4 tics 4
+	pic OTPT_6F5 tics 4
+    pic OTPT_6F6 tics 4
+    pic OTPT_6F7 tics 4
+    pic OTPT_6F8 tics 4
+	pic OTPT_6F9 tics 4
+
+texture OTPT_5
+	pic OTPT_5	tics 4
+    pic OTPT_5F1 tics 4
+    pic OTPT_5F2 tics 4
+    pic OTPT_5F3 tics 4
+    pic OTPT_5F4 tics 4
+	pic OTPT_5F5 tics 4
+    pic OTPT_5F6 tics 4
+    pic OTPT_5F7 tics 4
+    pic OTPT_5F8 tics 4
+	pic OTPT_5F9 tics 4
+
+texture OTPT_4
+	pic OTPT_4	tics 4
+    pic OTPT_4F1 tics 4
+    pic OTPT_4F2 tics 4
+    pic OTPT_4F3 tics 4
+    pic OTPT_4F4 tics 4
+	pic OTPT_4F5 tics 4
+    pic OTPT_4F6 tics 4
+    pic OTPT_4F7 tics 4
+    pic OTPT_4F8 tics 4
+	pic OTPT_4F9 tics 4
+
+
+texture OTPT_3
+	pic OTPT_3	tics 4
+    pic OTPT_3F1 tics 4
+    pic OTPT_3F2 tics 4
+    pic OTPT_3F3 tics 4
+    pic OTPT_3F4 tics 4
+	pic OTPT_3F5 tics 4
+    pic OTPT_3F6 tics 4
+    pic OTPT_3F7 tics 4
+    pic OTPT_3F8 tics 4
+	pic OTPT_3F9 tics 4
+
+texture OTPT_1
+	pic OTPT_1	tics 4
+    pic OTPT_1F1 tics 4
+    pic OTPT_1F2 tics 4
+    pic OTPT_1F3 tics 4
+    pic OTPT_1F4 tics 4
+	pic OTPT_1F5 tics 4
+    pic OTPT_1F6 tics 4
+    pic OTPT_1F7 tics 4
+    pic OTPT_1F8 tics 4
+	pic OTPT_1F9 tics 4
+
+texture OTPT__
+	pic OTPT__	tics 4
+    pic OTPT__F1 tics 4
+    pic OTPT__F2 tics 4
+    pic OTPT__F3 tics 4
+    pic OTPT__F4 tics 4
+	pic OTPT__F5 tics 4
+    pic OTPT__F6 tics 4
+    pic OTPT__F7 tics 4
+    pic OTPT__F8 tics 4
+	pic OTPT__F9 tics 4
+
+texture OTFR5
+    pic OTFR5 	tics 2
+    pic OTFR5F1 tics 2
+    pic OTFR5F2 tics 2
+    pic OTFR5F3 tics 2
+    pic OTFR5F4 tics 2
+	pic OTFR5F5 tics 2
+    pic OTFR5F6 tics 2
+    pic OTFR5F7 tics 2
+    pic OTFR5F8 tics 2
+	pic OTFR5F9 tics 2
+    pic OTFR5F10 tics 2
+	pic OTFR5F11 tics 2
+    pic OTFR5F12 tics 2
+    pic OTFR5F13 tics 2
+    pic OTFR5F14 tics 2
+	pic OTFR5F15 tics 2
+    pic OTFR5F16 tics 2
+    pic OTFR5F17 tics 2
+    pic OTFR5F18 tics 2
+
+texture OTFR4
+    pic OTFR4 	tics 2
+    pic OTFR4F1 tics 2
+    pic OTFR4F2 tics 2
+    pic OTFR4F3 tics 2
+    pic OTFR4F4 tics 2
+	pic OTFR4F5 tics 2
+    pic OTFR4F6 tics 2
+    pic OTFR4F7 tics 2
+    pic OTFR4F8 tics 2
+	pic OTFR4F9 tics 2
+    pic OTFR4F10 tics 2
+	pic OTFR4F11 tics 2
+    pic OTFR4F12 tics 2
+    pic OTFR4F13 tics 2
+    pic OTFR4F14 tics 2
+	pic OTFR4F15 tics 2
+    pic OTFR4F16 tics 2
+    pic OTFR4F17 tics 2
+    pic OTFR4F18 tics 2
+
+texture OTFR3
+    pic OTFR3 	tics 2
+    pic OTFR3F1 tics 2
+    pic OTFR3F2 tics 2
+    pic OTFR3F3 tics 2
+    pic OTFR3F4 tics 2
+	pic OTFR3F5 tics 2
+    pic OTFR3F6 tics 2
+    pic OTFR3F7 tics 2
+    pic OTFR3F8 tics 2
+	pic OTFR3F9 tics 2
+    pic OTFR3F10 tics 2
+	pic OTFR3F11 tics 2
+    pic OTFR3F12 tics 2
+    pic OTFR3F13 tics 2
+    pic OTFR3F14 tics 2
+	pic OTFR3F15 tics 2
+    pic OTFR3F16 tics 2
+    pic OTFR3F17 tics 2
+    pic OTFR3F18 tics 2
+	
+texture OTFR2
+    pic OTFR2 	tics 2
+    pic OTFR2F1 tics 2
+    pic OTFR2F2 tics 2
+    pic OTFR2F3 tics 2
+    pic OTFR2F4 tics 2
+	pic OTFR2F5 tics 2
+    pic OTFR2F6 tics 2
+    pic OTFR2F7 tics 2
+    pic OTFR2F8 tics 2
+	pic OTFR2F9 tics 2
+    pic OTFR2F10 tics 2
+	pic OTFR2F11 tics 2
+    pic OTFR2F12 tics 2
+    pic OTFR2F13 tics 2
+    pic OTFR2F14 tics 2
+	pic OTFR2F15 tics 2
+    pic OTFR2F16 tics 2
+    pic OTFR2F17 tics 2
+    pic OTFR2F18 tics 2
+	
+texture OTFR1
+    pic OTFR1 	tics 2
+    pic OTFR1F1 tics 2
+    pic OTFR1F2 tics 2
+    pic OTFR1F3 tics 2
+    pic OTFR1F4 tics 2
+	pic OTFR1F5 tics 2
+    pic OTFR1F6 tics 2
+    pic OTFR1F7 tics 2
+    pic OTFR1F8 tics 2
+	pic OTFR1F9 tics 2
+    pic OTFR1F10 tics 2
+	pic OTFR1F11 tics 2
+    pic OTFR1F12 tics 2
+    pic OTFR1F13 tics 2
+    pic OTFR1F14 tics 2
+	pic OTFR1F15 tics 2
+    pic OTFR1F16 tics 2
+    pic OTFR1F17 tics 2
+    pic OTFR1F18 tics 2
+	
+texture OTFR_
+    pic OTFR_ 	tics 2
+    pic OTFR_F1 tics 2
+    pic OTFR_F2 tics 2
+    pic OTFR_F3 tics 2
+    pic OTFR_F4 tics 2
+	pic OTFR_F5 tics 2
+    pic OTFR_F6 tics 2
+    pic OTFR_F7 tics 2
+    pic OTFR_F8 tics 2
+	pic OTFR_F9 tics 2
+    pic OTFR_F10 tics 2
+	pic OTFR_F11 tics 2
+    pic OTFR_F12 tics 2
+    pic OTFR_F13 tics 2
+    pic OTFR_F14 tics 2
+	pic OTFR_F15 tics 2
+    pic OTFR_F16 tics 2
+    pic OTFR_F17 tics 2
+    pic OTFR_F18 tics 2
+
+texture LQWT1
+    pic LQWT1 	tics 4
+    pic LQWT1F1 tics 4
+    pic LQWT1F2 tics 4
+    pic LQWT1F3 tics 4
+    pic LQWT1F4 tics 4
+	pic LQWT1F5 tics 4
+    pic LQWT1F6 tics 4
+    pic LQWT1F7 tics 4
+    pic LQWT1F8 tics 4
+	pic LQWT1F9 tics 4
+    pic LQWT1F10 tics 4
+	pic LQWT1F11 tics 4
+    pic LQWT1F12 tics 4
+    pic LQWT1F13 tics 4
+    pic LQWT1F14 tics 4
+	pic LQWT1F15 tics 4
+    pic LQWT1F16 tics 4
+    pic LQWT1F17 tics 4
+    pic LQWT1F18 tics 4
+	
+texture LQWT2
+    pic LQWT2 	tics 4
+    pic LQWT2F1 tics 4
+    pic LQWT2F2 tics 4
+    pic LQWT2F3 tics 4
+    pic LQWT2F4 tics 4
+	pic LQWT2F5 tics 4
+    pic LQWT2F6 tics 4
+    pic LQWT2F7 tics 4
+    pic LQWT2F8 tics 4
+	pic LQWT2F9 tics 4
+    pic LQWT2F10 tics 4
+	pic LQWT2F11 tics 4
+    pic LQWT2F12 tics 4
+    pic LQWT2F13 tics 4
+    pic LQWT2F14 tics 4
+	pic LQWT2F15 tics 4
+    pic LQWT2F16 tics 4
+    pic LQWT2F17 tics 4
+    pic LQWT2F18 tics 4
+	
+texture LQWT3
+    pic LQWT3 	tics 4
+    pic LQWT3F1 tics 4
+    pic LQWT3F2 tics 4
+    pic LQWT3F3 tics 4
+    pic LQWT3F4 tics 4
+	pic LQWT3F5 tics 4
+    pic LQWT3F6 tics 4
+    pic LQWT3F7 tics 4
+    pic LQWT3F8 tics 4
+	pic LQWT3F9 tics 4
+    pic LQWT3F10 tics 4
+	pic LQWT3F11 tics 4
+    pic LQWT3F12 tics 4
+    pic LQWT3F13 tics 4
+    pic LQWT3F14 tics 4
+	pic LQWT3F15 tics 4
+    pic LQWT3F16 tics 4
+    pic LQWT3F17 tics 4
+    pic LQWT3F18 tics 4
+
+texture LQWF1
+	pic LQWF1	tics 4
+    pic LQWF1F1 tics 4
+    pic LQWF1F2 tics 4
+    pic LQWF1F3 tics 4
+    pic LQWF1F4 tics 4
+	pic LQWF1F5 tics 4
+    pic LQWF1F6 tics 4
+    pic LQWF1F7 tics 4
+    pic LQWF1F8 tics 4
+	pic LQWF1F9 tics 4
+	
+texture LQWF2
+	pic LQWF2	tics 4
+    pic LQWF2F1 tics 4
+    pic LQWF2F2 tics 4
+    pic LQWF2F3 tics 4
+    pic LQWF2F4 tics 4
+	pic LQWF2F5 tics 4
+    pic LQWF2F6 tics 4
+    pic LQWF2F7 tics 4
+    pic LQWF2F8 tics 4
+	pic LQWF2F9 tics 4
+	
+texture LQWF3
+	pic LQWF3	tics 4
+    pic LQWF3F1 tics 4
+    pic LQWF3F2 tics 4
+    pic LQWF3F3 tics 4
+    pic LQWF3F4 tics 4
+	pic LQWF3F5 tics 4
+    pic LQWF3F6 tics 4
+    pic LQWF3F7 tics 4
+    pic LQWF3F8 tics 4
+	pic LQWF3F9 tics 4
+	
+texture LQWL1
+	pic LQWL1	tics 4
+    pic LQWL1F1 tics 4
+    pic LQWL1F2 tics 4
+    pic LQWL1F3 tics 4
+    pic LQWL1F4 tics 4
+	pic LQWL1F5 tics 4
+    pic LQWL1F6 tics 4
+    pic LQWL1F7 tics 4
+    pic LQWL1F8 tics 4
+	pic LQWL1F9 tics 4

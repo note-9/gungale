@@ -1,0 +1,1531 @@
+Brightmap Texture "LTMB1"
+{
+map "Brightmaps/Lights/LTMBBRIGHT.png"
+}
+
+Brightmap Texture "LTMB1_1"
+{
+map "Brightmaps/Lights/LTMBBRIGHT.png"
+}
+
+Brightmap Texture "LTMB1_2"
+{
+map "Brightmaps/Lights/LTMBBRIGHT.png"
+}
+
+Brightmap Texture "LTMB1_3"
+{
+map "Brightmaps/Lights/LTMBBRIGHT.png"
+}
+
+Brightmap Texture "LTMB1_4"
+{
+map "Brightmaps/Lights/LTMBBRIGHT.png"
+}
+
+
+Brightmap Texture "LTSC11_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+}
+
+Brightmap Texture "LTSC11_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+}
+
+Brightmap Texture "LTSC11_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+}
+
+Brightmap Texture "LTSC11_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+}
+
+Brightmap Texture "LTSC11_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC11A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC11A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC11A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC11A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC11A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC11B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC11B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC11B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC11B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC11B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC11BRIGHT.png"
+		}
+		
+Brightmap Texture "LTSC12_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+}
+
+Brightmap Texture "LTSC12_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+}
+
+Brightmap Texture "LTSC12_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+}
+
+Brightmap Texture "LTSC12_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+}
+
+Brightmap Texture "LTSC12_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC12A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC12A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC12A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC12A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC12A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC12B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC12B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC12B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC12B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC12B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC12BRIGHT.png"
+		}
+
+Brightmap Texture "LTSC13_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+}
+
+Brightmap Texture "LTSC13_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+}
+
+Brightmap Texture "LTSC13_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+}
+
+Brightmap Texture "LTSC13_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+}
+
+Brightmap Texture "LTSC13_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC13A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC13A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC13A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC13A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC13A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC13B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC13B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC13B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC13B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC13B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC13BRIGHT.png"
+		}
+
+Brightmap Texture "LTSC14_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+}
+
+Brightmap Texture "LTSC14_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+}
+
+Brightmap Texture "LTSC14_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+}
+
+Brightmap Texture "LTSC14_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+}
+
+Brightmap Texture "LTSC14_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC14A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC14A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC14A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC14A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC14A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC14B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC14B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC14B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC14B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC14B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC14BRIGHT.png"
+		}
+		
+Brightmap Texture "LTSC15_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+}
+
+Brightmap Texture "LTSC15_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+}
+
+Brightmap Texture "LTSC15_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+}
+
+Brightmap Texture "LTSC15_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+}
+
+Brightmap Texture "LTSC15_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC15A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC15A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC15A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC15A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC15A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC15B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC15B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC15B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC15B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC15B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+		}
+
+Brightmap Texture "LTSC16_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+}
+
+Brightmap Texture "LTSC16_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+}
+
+Brightmap Texture "LTSC16_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+}
+
+Brightmap Texture "LTSC16_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+}
+
+Brightmap Texture "LTSC16_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC16A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC16A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC16A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC16A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC16A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC16B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC16B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC16B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC16B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC16B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC16BRIGHT.png"
+		}
+
+		
+Brightmap Texture "LTSC15_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+}
+
+Brightmap Texture "LTSC15_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+}
+
+Brightmap Texture "LTSC15_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+}
+
+Brightmap Texture "LTSC15_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+}
+
+Brightmap Texture "LTSC15_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC15A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC15A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC15A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC15A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC15A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC15B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC15B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC15B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC15B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC15B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC15BRIGHT.png"
+		}
+
+
+
+Brightmap Texture "MTDR1"
+{
+map "Brightmaps/Doors/MTDR1BRIGHT.png"
+}
+Brightmap Texture "MTDR1_1"
+{
+map "Brightmaps/Doors/MTDR1BRIGHT.png"
+}
+Brightmap Texture "MTDR1_2"
+{
+map "Brightmaps/Doors/MTDR1BRIGHT.png"
+}
+Brightmap Texture "MTDR1_3"
+{
+map "Brightmaps/Doors/MTDR1BRIGHT.png"
+}
+Brightmap Texture "MTDR1_4"
+{
+map "Brightmaps/Doors/MTDR1BRIGHT.png"
+}
+Brightmap Texture "MTDR1_5"
+{
+map "Brightmaps/Doors/MTDR1BRIGHT.png"
+}
+
+Brightmap Texture "MTDR2"
+{
+map "Brightmaps/Doors/MTDR2BRIGHT.png"
+}
+Brightmap Texture "MTDR2_1"
+{
+map "Brightmaps/Doors/MTDR2BRIGHT.png"
+}
+Brightmap Texture "MTDR2_2"
+{
+map "Brightmaps/Doors/MTDR2BRIGHT.png"
+}
+Brightmap Texture "MTDR2_3"
+{
+map "Brightmaps/Doors/MTDR2BRIGHT.png"
+}
+Brightmap Texture "MTDR2_4"
+{
+map "Brightmaps/Doors/MTDR2BRIGHT.png"
+}
+Brightmap Texture "MTDR2_5"
+{
+map "Brightmaps/Doors/MTDR2BRIGHT.png"
+}
+
+Brightmap Texture "MTDR3"
+{
+map "Brightmaps/Doors/MTDR3BRIGHT.png"
+}
+Brightmap Texture "MTDR3_1"
+{
+map "Brightmaps/Doors/MTDR3BRIGHT.png"
+}
+Brightmap Texture "MTDR3_2"
+{
+map "Brightmaps/Doors/MTDR3BRIGHT.png"
+}
+Brightmap Texture "MTDR3_3"
+{
+map "Brightmaps/Doors/MTDR3BRIGHT.png"
+}
+Brightmap Texture "MTDR3_4"
+{
+map "Brightmaps/Doors/MTDR3BRIGHT.png"
+}
+Brightmap Texture "MTDR3_5"
+{
+map "Brightmaps/Doors/MTDR3BRIGHT.png"
+}
+
+Brightmap Texture "LTSC1_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+}
+
+Brightmap Texture "LTSC1_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+}
+
+Brightmap Texture "LTSC1_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+}
+
+Brightmap Texture "LTSC1_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+}
+
+Brightmap Texture "LTSC1_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC1A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC1A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC1A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC1A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC1A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC1B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC1B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC1B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC1B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC1B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC1BRIGHT.png"
+		}
+
+Brightmap Texture "LTSC2_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+}
+
+Brightmap Texture "LTSC2_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+}
+
+Brightmap Texture "LTSC2_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+}
+
+Brightmap Texture "LTSC2_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+}
+
+Brightmap Texture "LTSC2_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC2A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC2A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC2A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC2A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC2A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC2B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC2B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC2B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC2B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC2B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC2BRIGHT.png"
+		}
+
+Brightmap Texture "LTSC3_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+}
+
+Brightmap Texture "LTSC3_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+}
+
+Brightmap Texture "LTSC3_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+}
+
+Brightmap Texture "LTSC3_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+}
+
+Brightmap Texture "LTSC3_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC3A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC3A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC3A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC3A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC3A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC3B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC3B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC3B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC3B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC3B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC3BRIGHT.png"
+		}
+
+Brightmap Texture "LTSC4_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+}
+
+Brightmap Texture "LTSC4_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+}
+
+Brightmap Texture "LTSC4_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+}
+
+Brightmap Texture "LTSC4_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+}
+
+Brightmap Texture "LTSC4_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC4A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC4A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC4A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC4A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC4A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC4B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC4B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC4B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC4B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC4B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC4BRIGHT.png"
+		}
+
+Brightmap Texture "LTSC5_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+}
+
+Brightmap Texture "LTSC5_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+}
+
+Brightmap Texture "LTSC5_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+}
+
+Brightmap Texture "LTSC5_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+}
+
+Brightmap Texture "LTSC5_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC5A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC5A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC5A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC5A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC5A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC5B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC5B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC5B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC5B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC5B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC5BRIGHT.png"
+		}
+		
+Brightmap Texture "LTSC6_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+}
+
+Brightmap Texture "LTSC6_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+}
+
+Brightmap Texture "LTSC6_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+}
+
+Brightmap Texture "LTSC6_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+}
+
+Brightmap Texture "LTSC6_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC6A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC6A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC6A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC6A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC6A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC6B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC6B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC6B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC6B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC6B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC6BRIGHT.png"
+		}
+		
+Brightmap Texture "LTSC7_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+}
+
+Brightmap Texture "LTSC7_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+}
+
+Brightmap Texture "LTSC7_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+}
+
+Brightmap Texture "LTSC7_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+}
+
+Brightmap Texture "LTSC7_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC7A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC7A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC7A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC7A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC7A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC7B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC7B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC7B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC7B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC7B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC7BRIGHT.png"
+		}
+		
+Brightmap Texture "LTSC8_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+}
+
+Brightmap Texture "LTSC8_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+}
+
+Brightmap Texture "LTSC8_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+}
+
+Brightmap Texture "LTSC8_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+}
+
+Brightmap Texture "LTSC8_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC8A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC8A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC8A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC8A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC8A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC8B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC8B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC8B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC8B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC8B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC8BRIGHT.png"
+		}
+		
+Brightmap Texture "LTSC9_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+}
+
+Brightmap Texture "LTSC9_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+}
+
+Brightmap Texture "LTSC9_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+}
+
+Brightmap Texture "LTSC9_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+}
+
+Brightmap Texture "LTSC9_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC9A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC9A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC9A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC9A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC9A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC9B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC9B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC9B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC9B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC9B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC9BRIGHT.png"
+		}
+		
+Brightmap Texture "LTSC10_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+}
+
+Brightmap Texture "LTSC10_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+}
+
+Brightmap Texture "LTSC10_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+}
+
+Brightmap Texture "LTSC10_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+}
+
+Brightmap Texture "LTSC10_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+}
+
+	Brightmap Texture "LTSC10A1"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC10A2"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC10A3"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC10A4"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+	}
+
+	Brightmap Texture "LTSC10A5"
+	{
+	map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+	}
+
+		Brightmap Texture "LTSC10B1"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC10B2"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC10B3"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC10B4"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+		}
+
+		Brightmap Texture "LTSC10B5"
+		{
+		map "Brightmaps/Lights/LTSC/LTSC10BRIGHT.png"
+		}
+
+Brightmap Texture "MTFT1"
+{
+map "Brightmaps/MTFTBRG.png"
+}
+
+Brightmap Texture "MTFT1_1"
+{
+map "Brightmaps/MTFTBRG.png"
+}
+
+Brightmap Texture "MTFT1_2"
+{
+map "Brightmaps/MTFTBRG.png"
+}
+
+Brightmap Texture "MTFT1_3"
+{
+map "Brightmaps/MTFTBRG.png"
+}
+
+Brightmap Texture "MTFT1_4"
+{
+map "Brightmaps/MTFTBRG.png"
+}
+
+Brightmap Texture "MTFT1_5"
+{
+map "Brightmaps/MTFTBRG.png"
+}
+
+
+Brightmap Texture "LTMT1"
+{
+map "Brightmaps/Lights/LTMTBRIGHT.png"
+}
+
+Brightmap Texture "LTMT2"
+{
+map "Brightmaps/Lights/LTMTBRIGHT.png"
+}
+
+Brightmap Texture "LTMT3"
+{
+map "Brightmaps/Lights/LTMTBRIGHT.png"
+}
+
+Brightmap Texture "LTMT4"
+{
+map "Brightmaps/Lights/LTMTBRIGHT.png"
+}
+
+Brightmap Texture "LTMT5"
+{
+map "Brightmaps/Lights/LTMTBRIGHT.png"
+}
+
+Brightmap texture "LTSC11"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11_1"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11_2"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11_3"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11_4"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11_5"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11A"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11A1"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11A2"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11A3"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11A4"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11A5"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11B"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11B1"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11B2"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11B3"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11B4"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+
+Brightmap texture "LTSC11B5"
+{
+map "Brightmaps/Lights/LTSC/LTSC11BBRIGHT.png"
+}
+/*
+Brightmap DISABLED
+Brightmap Texture "THMS5"
+{
+map "Brightmaps/Tech/THMSBRIGHT.png"
+}
+*/

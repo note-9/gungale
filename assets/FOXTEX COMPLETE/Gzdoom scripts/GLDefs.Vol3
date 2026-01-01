@@ -1,0 +1,29 @@
+brightmap Texture "OULA1"
+{
+   map "Brightmaps/Lava/OULABRIGHT.png"
+}
+
+brightmap Texture "OULA1_1"
+{
+   map "Brightmaps/Lava/OULABRIGHT.png"
+}
+
+brightmap Texture "OULA1_2"
+{
+   map "Brightmaps/Lava/OULABRIGHT.png"
+}
+
+brightmap Texture "OULA1_3"
+{
+   map "Brightmaps/Lava/OULABRIGHT.png"
+}
+
+brightmap Texture "OULA1_4"
+{
+   map "Brightmaps/Lava/OULABRIGHT.png"
+}
+
+brightmap Texture "OULA1_5"
+{
+   map "Brightmaps/Lava/OULABRIGHT.png"
+}
